@@ -7,4 +7,13 @@
 * Get user by id   - http://localhost:8000/users/:id   
 * Edit user by id  - http://localhost:8000/users/:id
 * Delete user by id- http://localhost:8000/users/:id
-* For id based operations set pathvariables in postman ,
+* For id based operations set pathvariables in postman ,this for localhost within our system
+
+* In render Build command - npm i --force
+* global host https:https://express-crud-7izz.onrender.com
+* For get all user - express-crud-7izz.onrender.com/users
+* Add new user     - express-crud-7izz.onrender.com/users
+* Get user by id   - express-crud-7izz.onrender.com/users/:id   
+* Edit user by id  - express-crud-7izz.onrender.com/:id
+* Delete user by id- express-crud-7izz.onrender.com/:id
+* This is a global version so that we can access it from anywhere around the world
